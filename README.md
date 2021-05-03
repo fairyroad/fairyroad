@@ -1,4 +1,4 @@
-🌱  I’m 42Seoul Cadet and dongguk univ student !!
+🌱  I’m 42 Seoul Cadet and Dongguk university student !!
 <!--
 **fairyroad/fairyroad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
