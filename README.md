@@ -1,19 +1,1 @@
-🌱  I’m 42 Seoul Cadet and Dongguk University CSE Student.
-<!--
-**fairyroad/fairyroad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
--->
-
-[![ygil's 42 stats](https://badge42.vercel.app/api/v2/cl1ls5svh001609mer8edy21c/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fairyroad&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
